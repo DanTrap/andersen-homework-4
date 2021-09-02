@@ -1,3 +1,2 @@
-# andersen-homework-4
-## clock-custom-view branch  
-    Ветка с кастомными аналоговыми часами
+# andersen-homework-4 
+    Задание с кастомными аналоговыми часами
